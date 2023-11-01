@@ -23,6 +23,7 @@ Smooth Navigation: User-friendly navigation and menu options.
 How to Use:
 
 Clone the repository.
+
 Modify the product listings, images, and descriptions.
 
 Customize the website with your branding and products.
